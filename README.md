@@ -13,9 +13,10 @@
 🔍 راهکارهای مدیریت سابسکرایپشن بر اساس پلتفرم (نسخه جامع)  
 
 🍎 iOS (آیفون/آیپد):  
-- [Hiddify](https://apps.apple.com/app/hiddify) - راهکار سبک با رابط کاربری ساده  
-• Stash (https://apps.apple.com/app/stash) - گزینه حرفه‌ای با تنظیمات پیشرفته  
-• Karing (https://apps.apple.com/app/karing) - چندپلتفرمی با پشتیبانی عالی  
+- [Hiddify](https://apps.apple.com/app/hiddify) - راهکار سبک با رابط کاربری ساده
+- [Stash](https://apps.apple.com/app/stash) - گزینه حرفه‌ای با تنظیمات پیشرفته  
+- [Karing](https://apps.apple.com/app/karing) - چندپلتفرمی با پشتیبانی عالی 
+
 • Eger (https://apps.apple.com/app/egern) - طراحی مدرن و عملکرد روان  
 • Clash Mi (https://apps.apple.com/ru/app/clash-mi/id6744321968) - هسته قدرتمند Mihomo (Clash.Meta)
 • Jajams (https://apps.apple.com/app/jamjams) - گزینه جدید با قابلیت‌های منحصر بفرد  
