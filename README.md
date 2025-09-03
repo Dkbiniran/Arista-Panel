@@ -9,6 +9,21 @@
 </p>
 <br>
 
+## Introduction
+
+This project is aimed to provide a user panel to access FREE, SECURE and PRIVATE **VLESS**, **Trojan** and **Shadowsocks** configs or services are blocked by ISPs , It ensures connectivity even when domains , offering two deployment options :
+
+- **Workers** deployment
+- **Pages** deployment
+
+🌟 If you found **ARISTA Panel** valuable, Your donations make all the difference 🌟
+
+### USDT (BEP20)
+
+```text
+
+```
+
 
 ## 🛠️Getting Start :  
 
@@ -60,20 +75,6 @@
 
 ##
 
-## Introduction
-
-This project is aimed to provide a user panel to access FREE, SECURE and PRIVATE **VLESS**, **Trojan** and **Shadowsocks** configs or services are blocked by ISPs , It ensures connectivity even when domains , offering two deployment options :
-
-- **Workers** deployment
-- **Pages** deployment
-
-🌟 If you found **ARISTA Panel** valuable, Your donations make all the difference 🌟
-
-### USDT (BEP20)
-
-```text
-
-```
 
 ## Features
 
