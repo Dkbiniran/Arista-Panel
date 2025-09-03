@@ -1,4 +1,4 @@
-<h1 align="center">ARISTA Panel 💦</h1>
+<h1 align="center">🚀 ARISTA Panel 🚀</h1>
 
 ### 🌏 Readme in [Farsi](README_FA.md)
 
