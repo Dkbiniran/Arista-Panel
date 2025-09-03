@@ -47,7 +47,7 @@ This project is aimed to provide a user panel to access FREE, SECURE and PRIVATE
 - [Installation methods]()
 - [Configuration]()
 - [How to use]()
-- [FAQ](https://github.com/arista-project/Arista-Panel/blob/main/docs/en/docs/faq/)
+- [FAQ](https://arista-project.github.io/Arista-Panel/en/faq/)
 
 ## Supported Clients
 
