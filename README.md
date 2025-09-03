@@ -9,7 +9,7 @@
 
 ## Introduction
 
-This project is aimed to provide a user panel to access FREE, SECURE and PRIVATE **VLESS**, **Trojan** and **Shadowsocks** configs, It ensures connectivity even when domains , offering two deployment options :
+This project is aimed to provide a user panel to access FREE, SECURE and PRIVATE **VLESS**, **Trojan** and **Shadowsocks** configs or services are blocked by ISPs , It ensures connectivity even when domains , offering two deployment options :
 
 - **Workers** deployment
 - **Pages** deployment
