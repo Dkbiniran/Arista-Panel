@@ -43,12 +43,22 @@ This project is aimed to provide a user panel to access FREE, SECURE and PRIVATE
 1. **UDP transport**: VLESS and Trojan protocols on workers do not handle **UDP** properly, so it is disabled by default (affecting features like Telegram video calls), UDP DNS is also unsupported. DoH is enabled by default for enhanced security.
 2. **Request limit**: each worker supports 100K requests per day for VLESS and Trojan, suitable for 2-3 users. You can use custom personal domains to bypass limitation on VLESS/Trojan (Workers deployment) or opt for limitless Warp configurations.
 
-## Getting started
 
-- [Installation methods]()
-- [Configuration]()
-- [How to use]()
-- [FAQ](https://arista-project.github.io/Arista-Panel/en/faq/)
+## 🛠️Getting Start :  
+
+1️⃣ کاربران مبتدی : [Surfboard] (Android) یا [Jamjams] (iOS)  
+
+2️⃣ نیازهای معمولی : [v2rayNG] یا [Hiddify]  
+
+3️⃣ کاربران پیشرفته : [ClashMeta] یا [NekoRay]
+
+
+🔹 نکته : انتخاب اپلیکیشن مناسب بستگی به نیازهای شما دارد.  
+
+🔹 پیشنهاد ما : برای تست سرعت و پایداری، چند گزینه را امتحان کنید.
+
+##
+
 
 ## Supported Clients
 
