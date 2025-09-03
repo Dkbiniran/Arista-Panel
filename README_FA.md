@@ -58,6 +58,52 @@
 * **اتصال UDP**: پروتکل‌های VLESS و Trojan روی Workerها نمی‌تونن UDP رو به‌خوبی پشتیبانی کنن، برای همین به‌صورت پیش‌فرض غیرفعاله (این روی امکاناتی مثل تماس تصویری تلگرام تأثیر می‌ذاره). DNSهای UDP هم پشتیبانی نمی‌شن. به جاش DoH فعاله که امن‌تره.
 * **محدودیت تعداد درخواست**: هر Worker برای VLESS و Trojan روزانه 100 هزار درخواست پشتیبانی می‌کنه، که برای 2-3 نفر کافیه. برای اتصال نامحدود می‌تونید از دامنه شخصی (برای VLESS/Trojan با روش Workers) یا کانفیگ‌های Warp استفاده کنید.
 
+
+🔍 راهکارهای مدیریت سابسکرایپشن بر اساس پلتفرم (نسخه جامع)  
+
+🍎 iOS (آیفون/آیپد) :  
+- [Hiddify](https://apps.apple.com/app/hiddify) - راهکار سبک با رابط کاربری ساده
+- [Stash](https://apps.apple.com/app/stash) - گزینه حرفه‌ای با تنظیمات پیشرفته  
+- [Karing](https://apps.apple.com/app/karing) - چندپلتفرمی با پشتیبانی عالی 
+- [Eger](https://apps.apple.com/app/egern) - طراحی مدرن و عملکرد روان  
+- [Clash Mi](https://apps.apple.com/ru/app/clash-mi/id6744321968) - هسته قدرتمند Mihomo (Clash.Meta)
+- [Jajams](https://apps.apple.com/app/jamjams) - گزینه جدید با قابلیت‌های منحصر بفرد  
+
+🤖 Android :  
+- [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - انعطاف‌پذیر با پیکربندی پیشرفته (برای کاربران حرفه‌ای)
+- [Clash Mi](https://github.com/KaringX/karing/releases) - هسته قدرتمند Mihomo (Clash.Meta)
+- [Surfboard](https://t.me/surfboardnews) - ساده و کاربرپسند برای مبتدیان  
+- [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid) - سبک وزن با امکانات کامل  
+- [Hiddify-Next](https://github.com/hiddify/hiddify-next) - نسخه بهبودیافته Hiddify  
+- [v2rayNG](https://github.com/2dust/v2rayNG) - محبوب و پایدار  
+- [Shadowsocks for Android](https://github.com/shadowsocks/shadowsocks-android) - کلاسیک و قابل اعتماد  
+- [Karing](https://github.com/KaringX/karing/releases/) - سازگار با تمام دستگاه‌ها  
+
+💻 Windows:  
+- [Hiddify-Next](https://github.com/hiddify/hiddify-next/releases) - با پشتیبانی از پروتکل‌های متنوع  
+- [v2rayN](https://github.com/2dust/v2rayN) - جامع و پرامکانات  
+- [Shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - راهکار سنتی و کارآمد  
+- [NekoRay](https://github.com/MatsuriDayo/nekoray) - مدیریت آسان کانفیگ‌ها  
+- [Karing](https://karing.app/download) - یکپارچه با اکوسیستم  
+- [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev/releases) - هسته قدرتمند Mihomo (Clash.Meta)
+
+🍏 macOS:  
+- [Hiddify-Next](https://github.com/hiddify/hiddify-next/releases) - بهینه‌شده برای مک  
+- [Karing](https://karing.app/download) - تجربه کاربری یکپارچه  
+
+🛠️ راهنمای انتخاب :  
+1️⃣ کاربران مبتدی : [Surfboard] (Android) یا [Jamjams] (iOS)  
+
+2️⃣ نیازهای معمولی : [v2rayNG] یا [Hiddify]  
+
+3️⃣ کاربران پیشرفته : [ClashMeta] یا [NekoRay]
+
+
+🔹 نکته: انتخاب اپلیکیشن مناسب بستگی به نیازهای شما دارد.  
+
+🔹 پیشنهاد ما: برای تست سرعت و پایداری، چند گزینه را امتحان کنید.
+
+
 ## شروع به کار
 
 * [روش‌های راه‌اندازی]()
