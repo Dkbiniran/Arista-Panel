@@ -11,7 +11,11 @@
 </p>
 <br>
 <p align="center">
- با استفاده از Cloudflare Worker and Pages
+ با استفاده از 
+</p>
+<br>
+<p align="center">
+ Cloudflare Worker and Pages
 </p>
 <br>
 <p align="center">
