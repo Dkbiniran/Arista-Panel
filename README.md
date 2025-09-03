@@ -43,7 +43,7 @@ This project is aimed to provide a user panel to access FREE, SECURE and PRIVATE
 
 ## 🔍 Subscription Management Solutions by Platform (Comprehensive Version)  
 
-🍎 iOS (آیفون/آیپد) :  
+🍎 iOS (iPhone/iPad) :  
 - [Hiddify](https://apps.apple.com/app/hiddify) - Lightweight solution with a simple user interface
 - [Stash](https://apps.apple.com/app/stash) - Professional option with advanced settings  
 - [Karing](https://apps.apple.com/app/karing) - Multi-platform with excellent support 
