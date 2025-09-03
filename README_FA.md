@@ -3,9 +3,10 @@
 #### 🌏 [English](README.md)
 
 <p align="center">
- یک پنل کاربری برای تولید کانفیگ‌های رایگان و امن VLESS و Trojan و Shadowsocks با استفاده از Cloudflare Worker and Pages
+ یک پنل کاربری برای تولید کانفیگ‌های رایگان و امن 
+ 
+VLESS و Trojan و Shadowsocks با استفاده از Cloudflare Worker and Pages
 </p>
-<br>
 <br>
 <p align="center">
   <img src="docs/assets/images/panel-overview.jpg">
