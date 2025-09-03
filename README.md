@@ -83,6 +83,6 @@ This project is aimed to provide a user panel to access FREE, SECURE and PRIVATE
 
 ## Stargazers Over Time
 
-[![Stargazers Over Time](https://starchart.cc/bia-pain-bache/BPB-Worker-Panel.svg?variant=adaptive)](https://starchart.cc/bia-pain-bache/BPB-Worker-Panel)
+[![Stargazers Over Time](https://starchart.cc/bia-pain-bache/BPB-Worker-Panel.svg?variant=adaptive)](https://starchart.cc/)
 
 ---
