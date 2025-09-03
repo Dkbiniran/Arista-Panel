@@ -5,6 +5,8 @@
 <p align="center">
  یک پنل کاربری برای تولید کانفیگ‌های رایگان و امن VLESS و Trojan و Shadowsocks با استفاده از Cloudflare Worker and Pages
   <img src="docs/assets/images/panel-overview.jpg">
+  <img src="docs/assets/images/panel-overview1.jpg">
+  <img src="docs/assets/images/panel-overview2.jpg">
 </p>
 <br>
 
