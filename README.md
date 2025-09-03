@@ -46,17 +46,16 @@ This project is aimed to provide a user panel to access FREE, SECURE and PRIVATE
 
 ## 🛠️Getting Start :  
 
-1️⃣ کاربران مبتدی : [Surfboard] (Android) یا [Jamjams] (iOS)  
+1️⃣ Beginner users : [Surfboard] (Android) یا [Jamjams] (iOS)  
 
-2️⃣ نیازهای معمولی : [v2rayNG] یا [Hiddify]  
+2️⃣ Ordinary needs : [v2rayNG] یا [Hiddify]  
 
-3️⃣ کاربران پیشرفته : [ClashMeta] یا [NekoRay]
+3️⃣ Advanced users : [ClashMeta] یا [NekoRay]
 
 
-🔹 نکته : انتخاب اپلیکیشن مناسب بستگی به نیازهای شما دارد.  
+🔹 Tip : Choosing the right app depends on your needs.
 
-🔹 پیشنهاد ما : برای تست سرعت و پایداری، چند گزینه را امتحان کنید.
-
+🔹 Our suggestion : Try a few options to test speed and stability.
 ##
 
 
