@@ -4,8 +4,10 @@
 
 <p align="center">
  یک پنل کاربری برای تولید کانفیگ‌های رایگان و امن 
- 
+</p>
+<p align="center">
 VLESS و Trojan و Shadowsocks با استفاده از Cloudflare Worker and Pages
+
 </p>
 <br>
 <p align="center">
