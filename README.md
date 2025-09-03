@@ -12,7 +12,7 @@
 
 🔍 راهکارهای مدیریت سابسکرایپشن بر اساس پلتفرم (نسخه جامع)  
 
-🍎 iOS (آیفون/آیپد):  
+🍎 iOS (آیفون/آیپد) :  
 - [Hiddify](https://apps.apple.com/app/hiddify) - راهکار سبک با رابط کاربری ساده
 - [Stash](https://apps.apple.com/app/stash) - گزینه حرفه‌ای با تنظیمات پیشرفته  
 - [Karing](https://apps.apple.com/app/karing) - چندپلتفرمی با پشتیبانی عالی 
@@ -20,29 +20,29 @@
 - [Clash Mi](https://apps.apple.com/ru/app/clash-mi/id6744321968) - هسته قدرتمند Mihomo (Clash.Meta)
 - [Jajams](https://apps.apple.com/app/jamjams) - گزینه جدید با قابلیت‌های منحصر بفرد  
 
-🤖 Android:  
-• ClashMetaForAndroid (https://github.com/MetaCubeX/ClashMetaForAndroid) - انعطاف‌پذیر با پیکربندی پیشرفته (برای کاربران حرفه‌ای)
-• Clash Mi (https://github.com/KaringX/karing/releases) - هسته قدرتمند Mihomo (Clash.Meta)
-• Surfboard (https://t.me/surfboardnews) - ساده و کاربرپسند برای مبتدیان  
-• NekoBox (https://github.com/MatsuriDayo/NekoBoxForAndroid) - سبک وزن با امکانات کامل  
-• Hiddify-Next (https://github.com/hiddify/hiddify-next) - نسخه بهبودیافته Hiddify  
-• v2rayNG (https://github.com/2dust/v2rayNG) - محبوب و پایدار  
-• Shadowsocks for Android (https://github.com/shadowsocks/shadowsocks-android) - کلاسیک و قابل اعتماد  
-• Karing (https://github.com/KaringX/karing/releases/) - سازگار با تمام دستگاه‌ها  
+🤖 Android :  
+• [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - انعطاف‌پذیر با پیکربندی پیشرفته (برای کاربران حرفه‌ای)
+• [Clash Mi](https://github.com/KaringX/karing/releases) - هسته قدرتمند Mihomo (Clash.Meta)
+• [Surfboard](https://t.me/surfboardnews) - ساده و کاربرپسند برای مبتدیان  
+• [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid) - سبک وزن با امکانات کامل  
+• [Hiddify-Next](https://github.com/hiddify/hiddify-next) - نسخه بهبودیافته Hiddify  
+• [v2rayNG](https://github.com/2dust/v2rayNG) - محبوب و پایدار  
+• [Shadowsocks for Android](https://github.com/shadowsocks/shadowsocks-android) - کلاسیک و قابل اعتماد  
+• [Karing](https://github.com/KaringX/karing/releases/) - سازگار با تمام دستگاه‌ها  
 
 💻 Windows:  
-• Hiddify-Next (https://github.com/hiddify/hiddify-next/releases) - با پشتیبانی از پروتکل‌های متنوع  
-• v2rayN (https://github.com/2dust/v2rayN) - جامع و پرامکانات  
-• Shadowsocks-windows (https://github.com/shadowsocks/shadowsocks-windows) - راهکار سنتی و کارآمد  
-• NekoRay (https://github.com/MatsuriDayo/nekoray) - مدیریت آسان کانفیگ‌ها  
-• Karing (https://karing.app/download) - یکپارچه با اکوسیستم  
-• Clash Verge (https://github.com/clash-verge-rev/clash-verge-rev/releases) - هسته قدرتمند Mihomo (Clash.Meta)
+• [Hiddify-Next](https://github.com/hiddify/hiddify-next/releases) - با پشتیبانی از پروتکل‌های متنوع  
+• [v2rayN](https://github.com/2dust/v2rayN) - جامع و پرامکانات  
+• [Shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - راهکار سنتی و کارآمد  
+• [NekoRay](https://github.com/MatsuriDayo/nekoray) - مدیریت آسان کانفیگ‌ها  
+• [Karing](https://karing.app/download) - یکپارچه با اکوسیستم  
+• [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev/releases) - هسته قدرتمند Mihomo (Clash.Meta)
 
 🍏 macOS:  
-• Hiddify-Next (https://github.com/hiddify/hiddify-next/releases) - بهینه‌شده برای مک  
-• Karing (https://karing.app/download) - تجربه کاربری یکپارچه  
+• [Hiddify-Next](https://github.com/hiddify/hiddify-next/releases) - بهینه‌شده برای مک  
+• [Karing](https://karing.app/download) - تجربه کاربری یکپارچه  
 
-🛠️ راهنمای انتخاب:  
+🛠️ راهنمای انتخاب :  
 1️⃣ کاربران مبتدی: [Surfboard] (Android) یا [Jamjams] (iOS)  
 2️⃣ نیازهای معمولی: [v2rayNG] یا [Hiddify]  
 3️⃣ کاربران پیشرفته: [ClashMeta] یا [NekoRay]
@@ -112,18 +112,6 @@ This project is aimed to provide a user panel to access FREE, SECURE and PRIVATE
 |     **FLClash**     |                  |        :x:         |        :x:         |
 |   **AmneziaVPN**    |                  |        :x:         | :heavy_check_mark: |
 |    **WG Tunnel**    |                  |        :x:         | :heavy_check_mark: |
-
-## Environment variables
-
-|     Variable     |               Usage                |
-| :--------------: | :--------------------------------: |
-|     **UUID**     |             VLESS UUID             |
-|   **TR_PASS**    |          Trojan Password           |
-|   **PROXY_IP**   | Proxy IP or domain (VLESS, Trojan) |
-| **NAT64_PREFIX** |   NAT64 Prefixes (VLESS, Trojan)   |
-|   **SUB_PATH**   |         Subscriptions' URI         |
-|   **FALLBACK**   |  Fallback domain (VLESS, Trojan)   |
-|   **DOH_URL**    |              Core DOH              |
 
 ---
 
