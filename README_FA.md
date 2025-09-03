@@ -3,7 +3,11 @@
 #### 🌏 [English](README.md)
 
 <p align="center">
- یک پنل کاربری برای تولید کانفیگ‌های رایگان و امن VLESS و Trojan و Shadowsocks
+ یک پنل کاربری برای تولید کانفیگ‌های رایگان و امن 
+</p>
+<br>
+<p align="center">
+ VLESS و Trojan و Shadowsocks
 </p>
 <br>
 <p align="center">
