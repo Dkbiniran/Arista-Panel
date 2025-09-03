@@ -1,88 +1,206 @@
-<h1 align="center">🚀 ARISTA Worker Panel 🚀</h1>
+<h1 align="center">🚀 پنل آریستا 🚀</h1> 
+
+#### 🌏 [English](README.md)
 
 <p align="center">
  یک پنل کاربری برای تولید کانفیگ‌های رایگان و امن VLESS و Trojan و Shadowsocks با استفاده از Cloudflare Worker and Pages
+  <img src="docs/assets/images/panel-overview.jpg">
 </p>
 <br>
 
+## معرفی
 
-## Introduction
+این پروژه یه پنل کاربری برای دسترسی به کانفیگ‌های رایگان، امن و خصوصی **VLESS**، **Trojan** و **Warp** ارائه می‌ده. حتی وقتی دامنه‌ها یا سرویس Warp توسط اپراتورها فیلتر شدن، اتصال رو تضمین می‌کنه. این پنل به دو روش راه‌اندازی می‌شه:
 
-This project is aimed to provide a user panel to access FREE, SECURE and PRIVATE **VLESS**, **Trojan** and **Shadowsocks** configs, It ensures connectivity even when domains , offering two deployment options :
+* با **Cloudflare Workers**
+* با **Cloudflare Pages**
 
-- **Workers** deployment
-- **Pages** deployment
-
-🌟 If you found **ARISTA Panel** valuable, Your donations make all the difference 🌟
+🌟 اگه **پنل BPB** براتون مفید بوده، با حمایتتون بهم دلگرمی می‌دید 🌟
 
 ### USDT (BEP20)
 
 ```text
-
+0xbdf15d41C56f861f25b2b11C835bd45dfD5b792F
 ```
 
-## Features
+## ویژگی‌ها
 
-1. **Free and Private**: No costs involved and the server is private.
-2. **Intuitive Panel:** Streamlined for effortless navigation, configuration and use.
-3. **Versatile Protocols:** Provides VLESS, Trojan and Wireguard (Warp) protocols.
-4. **Warp Pro configs:** Optimized Warp for crucial circumstances.
-5. **Fragment support:** Supports Fragment functionality for crucial network situations.
-6. **Comprehensive Routing Rules:** Bypassing Iran/China/Russia and LAN, Blocking QUIC, Porn, Ads, Malwares, Phishing and also bypassing sanctions.
-7. **Chain Proxy:** Capable of adding a chain proxy to fix IP.
-8. **Broad client compatibility:** Offers subscription links for Xray, Sing-box and Clash-Mihomo core clients.
-9. **Password-protected panel:** Provides secure and private panel with password protection.
-10. **Fully customizable:** Supports setting up clean IP-domains, Proxy IPs, DNS servers, choosing ports and protocols, Warp endpoints and more.
+* **رایگان و شخصی**:  بدون هیچ هزینه‌ای، سرور شما شخصی هست.
+* **پنل کاربری ساده**: کار باهاش راحته و تنظیمات و استفاده ازش خیلی آسونه.
+* **پروتکل‌های متنوع**: ارائه کانفیگ‌های VLESS، Trojan و Wireguard (Warp).
+* **کانفیگ‌های Warp Pro**: کانفیگ‌های Warp بهینه‌شده برای شرایط خاص ایران.
+* **پشتیبانی از Fragment**: اتصال حتی در صورت فیلتر شدن دامنه.
+* **قوانین مسیریابی کامل**: دور زدن سایت‌های ایرانی، چینی، روسی و LAN، مسدود کردن QUIC، محتوای پورن، تبلیغات، بدافزارها، فیشینگ و در زدن سایت‌های تحریمی.
+* **زنجیره‌ی Proxy**: می‌تونید یه Proxy زنجیره‌ای اضافه کنید تا IP ثابت بشه.
+* **پشتیبانی از برنامه‌های مختلف**: لینک‌های اشتراک برای برنامه‌های با هسته‌های Xray، Sing-box و Clash-Mihomo.
+* **پنل امن با رمز عبور**: پنل محافظت شده با رمز عبور.
+* **سفارشی‌سازی کامل**: تنظیم IP تمیز، Proxy IP، سرورهای DNS، انتخاب پورت‌ها و پروتکل‌ها، Warp Endpoint و خیلی امکانات دیگه.
 
-## Limitations
+## محدودیت‌ها
 
-1. **UDP transport**: VLESS and Trojan protocols on workers do not handle **UDP** properly, so it is disabled by default (affecting features like Telegram video calls), UDP DNS is also unsupported. DoH is enabled by default for enhanced security.
-2. **Request limit**: each worker supports 100K requests per day for VLESS and Trojan, suitable for 2-3 users. You can use custom personal domains to bypass limitation on VLESS/Trojan (Workers deployment) or opt for limitless Warp configurations.
+* **اتصال UDP**: پروتکل‌های VLESS و Trojan روی Workerها نمی‌تونن UDP رو به‌خوبی پشتیبانی کنن، برای همین به‌صورت پیش‌فرض غیرفعاله (این روی امکاناتی مثل تماس تصویری تلگرام تأثیر می‌ذاره). DNSهای UDP هم پشتیبانی نمی‌شن. به جاش DoH فعاله که امن‌تره.
+* **محدودیت تعداد درخواست**: هر Worker برای VLESS و Trojan روزانه 100 هزار درخواست پشتیبانی می‌کنه، که برای 2-3 نفر کافیه. برای اتصال نامحدود می‌تونید از دامنه شخصی (برای VLESS/Trojan با روش Workers) یا کانفیگ‌های Warp استفاده کنید.
 
-## Getting started
+## شروع به کار
 
-- [Installation methods]()
-- [Configuration]()
-- [How to use]()
-- [FAQ]()
+* [روش‌های راه‌اندازی](https://bia-pain-bache.github.io/BPB-Worker-Panel/fa/installation/wizard/)
+* [راهنمای تنظیمات](https://bia-pain-bache.github.io/BPB-Worker-Panel/fa/configuration/)
+* [نحوه‌ی استفاده](https://bia-pain-bache.github.io/BPB-Worker-Panel/fa/usage/)
+* [پرسش‌های متداول (FAQ)](https://bia-pain-bache.github.io/BPB-Worker-Panel/en/faq/)
 
-## Supported Clients
+## برنامه‌های پشتیبانی شده
+<div dir="rtl">
+<table>
+  <thead>
+    <th>برنامه</th>
+    <th>نسخه</th>
+    <th>Fragment</th>
+    <th>Warp Pro</th>
+  </thead>
+  <tbody  align="center">
+    <tr>
+      <td><b>v2rayNG</b></td>
+      <td>1.10.2 و بالاتر</td>
+      <td>✔️</td>
+      <td>✔️</td>
+    </tr>
+    <tr>
+      <td><b>v2rayN</b></td>
+      <td>7.12.5 و بالاتر</td>
+      <td>✔️</td>
+      <td>✔️</td>
+    </tr>
+    <tr>
+      <td><b>v2rayN-Pro</b></td>
+      <td>1.9 و بالاتر</td>
+      <td>✔️</td>
+      <td>✔️</td>
+    </tr>
+    <tr>
+      <td><b>Husi</b></td>
+      <td></td>
+      <td>❌</td>
+      <td>❌</td>
+    </tr>
+    <tr>
+      <td><b>Sing-box</b></td>
+      <td>1.12.0 و بالاتر</td>
+      <td>✔️</td>
+      <td>❌</td>
+    </tr>
+    <tr>
+      <td><b>Streisand</b></td>
+      <td>1.6.48 و بالاتر</td>
+      <td>✔️</td>
+      <td>✔️</td>
+    </tr>
+    <tr>
+      <td><b>V2Box</b></td>
+      <td></td>
+      <td>❌</td>
+      <td>❌</td>
+    </tr>
+    <tr>
+      <td><b>Shadowrocket</b></td>
+      <td></td>
+      <td>❌</td>
+      <td>❌</td>
+    </tr>
+    <tr>
+      <td><b>Nekoray</b></td>
+      <td></td>
+      <td>✔️</td>
+      <td>❌</td>
+    </tr>
+    <tr>
+      <td><b>Hiddify</b></td>
+      <td>2.0.5 و بالاتر</td>
+      <td>✔️</td>
+      <td>✔️</td>
+    </tr>
+    <tr>
+      <td><b>MahsaNG</b></td>
+      <td>13 و بالاتر</td>
+      <td>✔️</td>
+      <td>✔️</td>
+    </tr>
+    <tr>
+      <td><b>Clash Meta</b></td>
+      <td></td>
+      <td>❌</td>
+      <td>❌</td>
+    </tr>
+    <tr>
+      <td><b>Clash Verg Rev</b></td>
+      <td></td>
+      <td>❌</td>
+      <td>❌</td>
+    </tr>
+    <tr>
+      <td><b>FLClash</b></td>
+      <td></td>
+      <td>❌</td>
+      <td>❌</td>
+    </tr>
+    <tr>
+      <td><b>AmneziaVPN</b></td>
+      <td></td>
+      <td>❌</td>
+      <td>✔️</td>
+    </tr>
+    <tr>
+      <td><b>WG Tunnel</b></td>
+      <td></td>
+      <td>❌</td>
+      <td>✔️</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
-|       Client        |     Version      |      Fragment      |      Warp Pro      |
-| :-----------------: | :--------------: | :----------------: | :----------------: |
-|     **v2rayNG**     | 1.10.2 or higher | :heavy_check_mark: | :heavy_check_mark: |
-|     **v2rayN**      | 7.12.5 or higher | :heavy_check_mark: | :heavy_check_mark: |
-|   **v2rayN-PRO**    |  1.9 or higher   | :heavy_check_mark: | :heavy_check_mark: |
-|      **Husi**       |                  | :heavy_check_mark: |        :x:         |
-|    **Sing-box**     | 1.12.0 or higher | :heavy_check_mark: |        :x:         |
-|    **Streisand**    | 1.6.48 or higher | :heavy_check_mark: | :heavy_check_mark: |
-|      **V2Box**      |                  |        :x:         |        :x:         |
-|  **Shadowrocket**   |                  |        :x:         |        :x:         |
-|     **Nekoray**     |                  | :heavy_check_mark: |        :x:         |
-|     **Hiddify**     | 2.5.7 or higher  | :heavy_check_mark: | :heavy_check_mark: |
-|     **MahsaNG**     |   13 or higher   | :heavy_check_mark: | :heavy_check_mark: |
-|   **Clash Meta**    |                  |        :x:         |        :x:         |
-| **Clash Verge Rev** |                  |        :x:         |        :x:         |
-|     **FLClash**     |                  |        :x:         |        :x:         |
-|   **AmneziaVPN**    |                  |        :x:         | :heavy_check_mark: |
-|    **WG Tunnel**    |                  |        :x:         | :heavy_check_mark: |
-
-## Environment variables
-
-|     Variable     |               Usage                |
-| :--------------: | :--------------------------------: |
-|     **UUID**     |             VLESS UUID             |
-|   **TR_PASS**    |          Trojan Password           |
-|   **PROXY_IP**   | Proxy IP or domain (VLESS, Trojan) |
-| **NAT64_PREFIX** |   NAT64 Prefixes (VLESS, Trojan)   |
-|   **SUB_PATH**   |         Subscriptions' URI         |
-|   **FALLBACK**   |  Fallback domain (VLESS, Trojan)   |
-|   **DOH_URL**    |              Core DOH              |
+## متغیرهای محیطی (داشبورد کلادفلر)
+<div dir="rtl">
+<table>
+  <thead>
+    <th>متغیر</th>
+    <th>کاربرد</th>
+  </thead>
+  <tbody  align="center">
+    <tr>
+      <td><b>UUID</b></td>
+      <td>UUID برای پروتکل VLESS</td>
+    </tr>
+    <tr>
+      <td><b>TR_PASS</b></td>
+      <td>پسورد پروتکل Trojan</td>
+    </tr>
+    <tr>
+      <td><b>PROXY_IP</b></td>
+      <td>Proxy IP برای VLESS و Trojan</td>
+    </tr>
+    <tr>
+      <td><b>NAT64_PREFIX</b></td>
+      <td>NAT64 Prefix برای VLESS و Trojan</td>
+    </tr>
+    <tr>
+      <td><b>SUB_PATH</b></td>
+      <td>مسیر لینک‌های اشتراک شخصی</td>
+    </tr>
+    <tr>
+      <td><b>FALLBACK</b></td>
+      <td>دامنه‌ی پوششی برای VLESS و Trojan</td>
+    </tr>
+    <tr>
+      <td><b>DOH_URL</b></td>
+      <td>DOH برای عملیات داخلی ورکر</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ---
+## تعداد ستاره‌ها به مرور زمان
 
-## Stargazers Over Time
-
-[![Stargazers Over Time](https://starchart.cc/bia-pain-bache/BPB-Worker-Panel.svg?variant=adaptive)](https://starchart.cc/)
+[![تعداد ستاره‌ها به مرور زمان](https://starchart.cc/bia-pain-bache/BPB-Worker-Panel.svg?variant=adaptive)](ttps://starchart.cc/)
 
 ---
