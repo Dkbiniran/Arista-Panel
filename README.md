@@ -25,6 +25,42 @@
 ##
 
 
+##
+
+## 🔍 Subscription Management Solutions by Platform (Comprehensive Version)  
+
+🍎 iOS (آیفون/آیپد) :  
+- [Hiddify](https://apps.apple.com/app/hiddify) - Lightweight solution with a simple user interface
+- [Stash](https://apps.apple.com/app/stash) - Professional option with advanced settings  
+- [Karing](https://apps.apple.com/app/karing) - Multi-platform with excellent support 
+- [Eger](https://apps.apple.com/app/egern) - Modern design and smooth performance  
+- [Clash Mi](https://apps.apple.com/ru/app/clash-mi/id6744321968) - Powerful Mihomo (Clash.Meta) core
+- [Jajams](https://apps.apple.com/app/jamjams) - New option with unique features  
+
+🤖 Android :  
+- [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - انعطاف‌پذیر با پیکربندی پیشرفته (برای کاربران حرفه‌ای)
+- [Clash Mi](https://github.com/KaringX/karing/releases) - Powerful Mihomo (Clash.Meta) core
+- [Surfboard](https://t.me/surfboardnews) - Simple and user-friendly for beginners  
+- [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid) - Lightweight with full features  
+- [Hiddify-Next](https://github.com/hiddify/hiddify-next) - Improved version of Hiddify  
+- [v2rayNG](https://github.com/2dust/v2rayNG) - Popular and stable  
+- [Shadowsocks for Android](https://github.com/shadowsocks/shadowsocks-android) - Classic and reliable  
+- [Karing](https://github.com/KaringX/karing/releases/) - Compatible with all devices  
+
+💻 Windows:  
+- [Hiddify-Next](https://github.com/hiddify/hiddify-next/releases) - With support for various protocols  
+- [v2rayN](https://github.com/2dust/v2rayN) - Comprehensive and feature-rich  
+- [Shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - Traditional and efficient solution  
+- [NekoRay](https://github.com/MatsuriDayo/nekoray) - Easy config management  
+- [Karing](https://karing.app/download) - Integrated with the ecosystem  
+- [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev/releases) - Powerful Mihomo (Clash.Meta) core
+
+🍏 macOS:  
+- [Hiddify-Next](https://github.com/hiddify/hiddify-next/releases) - Optimized for Mac  
+- [Karing](https://karing.app/download) - Seamless user experience  
+
+##
+
 ## Introduction
 
 This project is aimed to provide a user panel to access FREE, SECURE and PRIVATE **VLESS**, **Trojan** and **Shadowsocks** configs or services are blocked by ISPs , It ensures connectivity even when domains , offering two deployment options :
