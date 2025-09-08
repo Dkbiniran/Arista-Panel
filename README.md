@@ -21,7 +21,7 @@ This project is aimed to provide a user panel to access FREE, SECURE and PRIVATE
 ### USDT (BEP20)
 
 ```text
-
+0xB22946DEB48592AB5818D327DD99313A9e4F273A
 ```
 
 
