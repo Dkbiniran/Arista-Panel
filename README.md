@@ -111,7 +111,7 @@ TLCXUufe6FmD518PG9F6oonH8G3by4bavz
   4. 📱 استفاده در کلاینت‌های v2ray, hiddify, nekobox, karing, clashmeta, ...
 
 
- - این سرویس به عنوان یک راه‌حل کامل برای مدیریت کانفیگ‌های پروکسی طراحی شده و به راحتی قابل استقرار است. 🚀
+ -🚀این سرویس به عنوان یک راه‌حل کامل برای مدیریت کانفیگ‌های پروکسی طراحی شده و به راحتی قابل استقرار است.
 
 ##
 
@@ -134,6 +134,7 @@ TLCXUufe6FmD518PG9F6oonH8G3by4bavz
 🟠 Firefox : •منو (سه نقطه) → Settings → Delete browsing data → انتخاب موارد مورد نظر → Delete browsing data
 
   🔵 مرورگر پیش‌فرض: •به Settings → Apps → مرورگر مورد نظر → Storage → Clear cache بروید
+
 
   💻 در دسکتاپ :
 
