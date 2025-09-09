@@ -28,8 +28,9 @@
 
 <br>
 <p align="center">
-  <img src="docs/assets/Fa/DL_files.png">
+  <img src="docs/assets/fa/DL_files.png">
 </p>
+
 <br>
 <br>
 <p align="center">
