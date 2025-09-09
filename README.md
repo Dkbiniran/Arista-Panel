@@ -30,6 +30,21 @@
   <a href="https://www.youtube.com/@aristaproject-m3o">🎥👈دسترسی به آموزش‌ها در یوتیوب👉🎥</a>
 </h3>
 
+<details>
+  <summary><b>▶ آموزش دانلود فایل ورکر یا زیپ از گیتهاب</b></summary>
+  
+  ---
+  
+  <p align="center">
+    <br>
+    <ul>
+      <li>📍 در حال ساختش هستم </li>
+    </ul>
+    <br>
+    <img src="https://raw.githubusercontent.com/arista-project/Arista-Panel/main/docs/assets/images/" width="400">
+  </p>
+</details>
+
 <br>
 <br>
 <p align="center">
