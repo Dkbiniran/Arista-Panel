@@ -3,12 +3,15 @@
 #### 🌏 [English 👈📑](https://translate.google.com/translate?sl=auto&tl=en&u=https://github.com/arista-project/Arista-Panel)
 
   
+  
+<br>
 <p align="center">
  یک پنل کاربری برای تولید کانفیگ‌های رایگان و امن 
 <p align="center" dir="rtl">
    با استفاده از
  Cloudflare Worker and Pages
 </p>
+<br>
 
 <p align="center" >
   <img src="./image/ct (5).gif" width="30px" alt="">
@@ -28,8 +31,6 @@
 </p>
 <br>
 
-<br>
-<p align="Right" dir="rtl">
 ## معرفی 😎
 
 🧠 هدف اصلی کد :
@@ -52,8 +53,6 @@
 
 حمایت شما می‌تواند به معنای یک وعده غذای گرم ، لباسی نو ، یا حتی لحظه‌ای از شادی باشد که مدت‌هاست دور از دسترس آن‌هاست.
 
-</p>
-<br>
 ### USDT (TRC20)
 
 ```text
