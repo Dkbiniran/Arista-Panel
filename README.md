@@ -25,7 +25,12 @@
 <div align="center" dir="rtl">
   <h3>✍️👆 دسترسی سریع شما به صفحات ما در شبکه‌های مجازی 👆✍️</h3>
 </div>
-  
+
+<br>
+<p align="center">
+  <img src="docs/assets/Fa/DL_files.png">
+</p>
+<br>
 <br>
 <p align="center">
   <img src="docs/assets/images/panel-overview.png">
