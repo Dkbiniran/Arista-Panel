@@ -2,7 +2,15 @@
 
 #### 🌏 [English](https://translate.google.com/translate?sl=auto&tl=en&u=https://github.com/arista-project/Arista-Panel)
 
-
+<p align="center" >
+  <img src="./image/ct (5).gif" width="30px" alt="">
+<a href = "https://x.com/hamedp_71"> <img src="https://img.shields.io/badge/-X-white?style=for-the-badge&logo=x&logoColor=White&labelColor=0D1117" target="_blank"></a>
+  <a href="https://instagram.com/hamedp71" target="_blank"><img src="https://img.shields.io/badge/-Instagram-magenta?style=for-the-badge&logo=instagram&logoColor=magenta&labelColor=0D1117" target="_blank"></a>
+   <a href = "mailto:hamedfinal18@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-yellow?style=for-the-badge&logo=gmail&logoColor=yellow&labelColor=0D1117" target="_blank"></a>
+  <a href="https://t.me/hamedp71" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=cyan&labelColor=0D1117" target="_blank"></a> 
+  <a href="https://github.com/hamedp-71" target="_blank"><img src="https://img.shields.io/badge/-Github-silver?style=for-the-badge&logo=github&logoColor=silver&labelColor=0D1117" target="_blank"></a> 
+  </p>
+  
 <p align="center">
  یک پنل کاربری برای تولید کانفیگ‌های رایگان و امن 
 </p>
