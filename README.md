@@ -40,18 +40,18 @@
 
 <details>
   <summary><b> آموزش دانلود فایل ورکر یا زیپ از گیتهاب 👈👈</b></summary>
-
+  
   ---
-  <p align="center">
+  
+  <div align="center">
     <br>
     <ul>
       <li>📍 تصاویر رو نگاه کن و انجام بده 📍</li>
     </ul>
     <br>
-    <p align="center">
     <img src="docs/fq/click.png" width="400">
     <img src="docs/fq/Download.png" width="800">
-  </p>
+  </div>
 </details>
 
 <br>
