@@ -19,9 +19,7 @@
 </p>
 <br>
 <p align="center">
-  <img src="docs/assets/images/panel-overview.jpg">
-  <img src="docs/assets/images/panel-overview1.jpg">
-  <img src="docs/assets/images/panel-overview2.jpg">
+  <img src="docs/assets/images/panel-overview.png">
 </p>
 <br>
 
