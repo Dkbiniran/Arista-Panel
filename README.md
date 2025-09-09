@@ -19,9 +19,7 @@
   <a href="https://github.com/arista-project/" target="_blank"><img src="https://img.shields.io/badge/-Github-silver?style=for-the-badge&logo=github&logoColor=silver&labelColor=0D1117" target="_blank"></a> 
   
 > <div align="center" dir="rtl">
->
-> **👆 دسترسی سریع شما به صفحات ما در شبکه‌های مجازی 👆**
->
+> **✍️👆 دسترسی سریع شما به صفحات ما در شبکه‌های مجازی 👆✍️**
 > </div>
   
 <br>
