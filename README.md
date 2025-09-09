@@ -5,9 +5,7 @@
   
 <p align="center">
  یک پنل کاربری برای تولید کانفیگ‌های رایگان و امن 
-</p>
-<br>
-<p align="center">
+<p align="center" dir="rtl">
    با استفاده از
  Cloudflare Worker and Pages
 </p>
