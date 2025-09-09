@@ -167,6 +167,7 @@ TLCXUufe6FmD518PG9F6oonH8G3by4bavz
 
 🤖 Android :  
 - [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - انعطاف‌پذیر با پیکربندی پیشرفته (برای کاربران حرفه‌ای)
+- [FLClash](https://github.com/chen08209/FlClash/releases) - همه فن حریف (بهترین برای کلش)
 - [Clash Mi](https://github.com/KaringX/karing/releases) - هسته قدرتمند Mihomo (Clash.Meta)
 - [Surfboard](https://t.me/surfboardnews) - ساده و کاربرپسند برای مبتدیان  
 - [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid) - سبک وزن با امکانات کامل  
