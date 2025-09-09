@@ -1,8 +1,6 @@
 <h1 align="center">🚀 پنل آریستا 🚀</h1> 
 
-#### 🌏 [English](README.md)
-
-[Translate this page to English](https://translate.google.com/translate?sl=auto&tl=en&u=https://github.com/USERNAME/REPOSITORY)
+#### 🌏 [English](https://translate.google.com/translate?sl=auto&tl=en&u=https://github.com/arista-project/Arista-Panel)
 
 
 <p align="center">
