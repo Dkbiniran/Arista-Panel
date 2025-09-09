@@ -30,6 +30,14 @@
   <a href="https://www.youtube.com/@aristaproject-m3o">🎥👈دسترسی به آموزش‌ها در یوتیوب👉🎥</a>
 </h3>
 
+
+<br>
+<br>
+<p align="center">
+   <img src="docs/fa/DL_files.png">
+</p>
+<br>
+
 <details>
   <summary><b>آموزش دانلود فایل ورکر یا زیپ از گیتهاب</b></summary>
   
@@ -48,7 +56,6 @@
 <br>
 <br>
 <p align="center">
-   <img src="docs/fa/DL_files.png">
   <img src="docs/assets/images/panel-overview.png">
 </p>
 <br>
