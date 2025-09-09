@@ -6,10 +6,9 @@
 <p align="center">
  یک پنل کاربری برای تولید کانفیگ‌های رایگان و امن 
 </p>
-</p>
 <br>
 <p align="center">
-   با استفاده از 
+   با استفاده از
  Cloudflare Worker and Pages
 </p>
 
