@@ -27,13 +27,9 @@
 </div>
 
 <br>
-<p align="center">
-  <img src="docs/fa/DL_files.png">
-</p>
-
-<br>
 <br>
 <p align="center">
+   <img src="docs/fa/DL_files.png">
   <img src="docs/assets/images/panel-overview.png">
 </p>
 <br>
