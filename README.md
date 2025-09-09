@@ -25,9 +25,9 @@
 <div align="center" dir="rtl">
   <h3>✍️👆 دسترسی سریع شما به صفحات ما در شبکه‌های مجازی 👆✍️</h3>
 </div>
-<div align="center" dir="rtl">
-  <h3>[👉 دسترسی به آموزش‌ها در یوتیوب 👈](https://www.youtube.com/@aristaproject-m3o)</h3>
-</div>
+<p align="center">
+[👉 دسترسی به آموزش‌ها در یوتیوب 👈](https://www.youtube.com/@aristaproject-m3o)
+</p>
 <br>
 <br>
 <p align="center">
