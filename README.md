@@ -40,8 +40,7 @@
 
 <details>
   <summary><b> آموزش دانلود فایل ورکر یا زیپ از گیتهاب 👈👈</b></summary>
-  ---
-
+ 
   <p align="center">
     <br>
     <ul>
