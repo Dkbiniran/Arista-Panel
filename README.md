@@ -111,7 +111,7 @@ TLCXUufe6FmD518PG9F6oonH8G3by4bavz
   4. 📱 استفاده در کلاینت‌های v2ray, hiddify, nekobox, karing, clashmeta, ...
 
 
- -🚀این سرویس به عنوان یک راه‌حل کامل برای مدیریت کانفیگ‌های پروکسی طراحی شده و به راحتی قابل استقرار است.
+ -🚀 این سرویس به عنوان یک راه‌حل کامل برای مدیریت کانفیگ‌های پروکسی طراحی شده و به راحتی قابل استقرار است.
 
 ##
 
@@ -127,7 +127,7 @@ TLCXUufe6FmD518PG9F6oonH8G3by4bavz
 
   روش پاک کردن کش در مرورگرهای مختلف :
 
-  📲 اندروید :
+ # 📲 اندروید :
 
 🟢 Chrome : •منو (سه نقطه) → Settings → Privacy and security → Clear browsing data •تیک گزینه‌های Cached images and files و Cookies and site data را بزنید → Clear data
 
@@ -136,7 +136,7 @@ TLCXUufe6FmD518PG9F6oonH8G3by4bavz
   🔵 مرورگر پیش‌فرض: •به Settings → Apps → مرورگر مورد نظر → Storage → Clear cache بروید
 
 
-  💻 در دسکتاپ :
+# 💻 در دسکتاپ :
 
 🟢 Chrome/Edge :  Ctrl+Shift+Delete(ویندوز) یا Cmd+Shift+Delete (مک)
 
