@@ -18,9 +18,9 @@
   <a href="https://t.me/aristaproject" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=cyan&labelColor=0D1117" target="_blank"></a> 
   <a href="https://github.com/arista-project/" target="_blank"><img src="https://img.shields.io/badge/-Github-silver?style=for-the-badge&logo=github&logoColor=silver&labelColor=0D1117" target="_blank"></a> 
   
-<div align="center">
-  <img src="https://img.shields.io/badge/👆 دسترسی سریع شما به صفحات ما در شبکه‌های مجازی 👆-000000?style=flat-square">
-</div>
+```
+👆 دسترسی سریع شما به صفحات ما در شبکه‌های مجازی 👆
+```
   
 <br>
 <p align="center">
