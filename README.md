@@ -45,9 +45,7 @@
   
   <div align="center">
     <br>
-    <ul>
-      <li>📍👇 تصاویر رو نگاه کن و انجام بده 👇📍</li>
-    </ul>
+    <p>📍 تصاویر رو نگاه کن و انجام بده 📍</p>
     <br>
     <img src="docs/fq/click.png" width="400">
     <img src="docs/fq/Download.png" width="800">
