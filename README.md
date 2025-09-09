@@ -341,28 +341,20 @@ TLCXUufe6FmD518PG9F6oonH8G3by4bavz
       <td>UUID برای پروتکل VLESS</td>
     </tr>
     <tr>
-      <td><b>TR_PASS</b></td>
-      <td>پسورد پروتکل Trojan</td>
+      <td><b>Clean IP</b></td>
+      <td>آیپی تمیز</td>
     </tr>
     <tr>
-      <td><b>PROXY_IP</b></td>
-      <td>Proxy IP برای VLESS و Trojan</td>
+      <td><b>Domain</b></td>
+      <td>استفاده از دامین شخصی</td>
     </tr>
     <tr>
-      <td><b>NAT64_PREFIX</b></td>
-      <td>NAT64 Prefix برای VLESS و Trojan</td>
-    </tr>
-    <tr>
-      <td><b>SUB_PATH</b></td>
-      <td>مسیر لینک‌های اشتراک شخصی</td>
+      <td><b>SNI</b></td>
+      <td>استفاده برای مسیر فرعی</td>
     </tr>
     <tr>
       <td><b>FALLBACK</b></td>
-      <td>دامنه‌ی پوششی برای VLESS و Trojan</td>
-    </tr>
-    <tr>
-      <td><b>DOH_URL</b></td>
-      <td>DOH برای عملیات داخلی ورکر</td>
+      <td>اجرا شده در کلش متا</td>
     </tr>
   </tbody>
 </table>
