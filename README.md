@@ -234,9 +234,4 @@ TLCXUufe6FmD518PG9F6oonH8G3by4bavz
 </table>
 </div>
 
----
-## تعداد ستاره‌ها به مرور زمان
 
-[![تعداد ستاره‌ها به مرور زمان](https://starchart.cc/bia-pain-bache/BPB-Worker-Panel.svg?variant=adaptive)](ttps://starchart.cc/)
-
----
