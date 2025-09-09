@@ -49,7 +49,7 @@
       <li>📍 در حال ساختش هستم </li>
     </ul>
     <br>
-    <img src="https://raw.githubusercontent.com/arista-project/Arista-Panel/main/docs/assets/images/" width="400">
+    <img src="docs/fq/click.png" width="400">
   </p>
 </details>
 
