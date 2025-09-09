@@ -2,27 +2,7 @@
 
 #### 🌏 [English](README.md)
 
-<script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'fa', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
-}
-
-function translateToEnglish() {
-  var langSelect = document.querySelector('select.goog-te-combo');
-  if (langSelect) {
-    langSelect.value = 'en';
-    langSelect.dispatchEvent(new Event('change'));
-  }
-}
-</script>
-
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
-<div id="google_translate_element" style="display:none;"></div>
-
-<button onclick="translateToEnglish()" style="padding: 10px 15px; border: none; background-color: #007bff; color: white; border-radius: 5px; cursor: pointer;">
-  Translate to English
-</button>
+[Translate this page to English](https://translate.google.com/translate?sl=auto&tl=en&u=https://github.com/USERNAME/REPOSITORY)
 
 
 <p align="center">
