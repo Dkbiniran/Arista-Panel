@@ -2,25 +2,26 @@
 
 #### 🌏 [English 👈📑](https://translate.google.com/translate?sl=auto&tl=en&u=https://github.com/arista-project/Arista-Panel)
 
-  
-  
-<br>
-<p align="center">
- یک پنل کاربری برای تولید کانفیگ‌های رایگان و امن 
-<p align="center" dir="rtl">
-   با استفاده از
- Cloudflare Worker and Pages
-</p>
 <br>
 
-<p align="center" >
+<p align="center">
+ یک پنل کاربری برای تولید کانفیگ‌های رایگان و امن 
+</p>
+<p align="center" dir="rtl">
+   با استفاده از Cloudflare Worker and Pages
+</p>
+
+<br>
+
+<p align="center">
   <img src="./image/ct (5).gif" width="30px" alt="">
-<a href = "https://x.com/aristaproject"> <img src="https://img.shields.io/badge/-X-white?style=for-the-badge&logo=x&logoColor=White&labelColor=0D1117" target="_blank"></a>
-<a href="https://www.youtube.com/@aristaproject-m3o" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117"></a>
-   <a href = "mailto:aristaproject1@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-yellow?style=for-the-badge&logo=gmail&logoColor=yellow&labelColor=0D1117" target="_blank"></a>
+  <a href="https://x.com/aristaproject"> <img src="https://img.shields.io/badge/-X-white?style=for-the-badge&logo=x&logoColor=White&labelColor=0D1117" target="_blank"></a>
+  <a href="https://www.youtube.com/@aristaproject-m3o" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117"></a>
+  <a href="mailto:aristaproject1@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-yellow?style=for-the-badge&logo=gmail&logoColor=yellow&labelColor=0D1117" target="_blank"></a>
   <a href="https://t.me/aristaproject" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=cyan&labelColor=0D1117" target="_blank"></a> 
   <a href="https://github.com/arista-project/" target="_blank"><img src="https://img.shields.io/badge/-Github-silver?style=for-the-badge&logo=github&logoColor=silver&labelColor=0D1117" target="_blank"></a> 
-  
+</p>
+
 <div align="center" dir="rtl">
   <h3>✍️👆 دسترسی سریع شما به صفحات ما در شبکه‌های مجازی 👆✍️</h3>
 </div>
