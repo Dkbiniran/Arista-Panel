@@ -8,14 +8,15 @@
 </p>
 <br>
 <p align="center">
- VLESS و Trojan و Shadowsocks
+ VLESS
 </p>
 <br>
 <p align="center">
- با استفاده از 
+
 </p>
 <br>
 <p align="center">
+   با استفاده از 
  Cloudflare Worker and Pages
 </p>
 
