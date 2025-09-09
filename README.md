@@ -27,7 +27,7 @@
 </div>
 
 <h3 align="center">
-  <a href="https://www.youtube.com/@aristaproject-m3o">دسترسی به آموزش‌ها در یوتیوب</a>
+  <a href="https://www.youtube.com/@aristaproject-m3o">👈دسترسی به آموزش‌ها در یوتیوب👉</a>
 </h3>
 
 <br>
