@@ -6,13 +6,6 @@
 <p align="center">
  یک پنل کاربری برای تولید کانفیگ‌های رایگان و امن 
 </p>
-<br>
-<p align="center">
- VLESS
-</p>
-<br>
-<p align="center">
-
 </p>
 <br>
 <p align="center">
@@ -22,11 +15,11 @@
 
 <p align="center" >
   <img src="./image/ct (5).gif" width="30px" alt="">
-<a href = "https://x.com/hamedp_71"> <img src="https://img.shields.io/badge/-X-white?style=for-the-badge&logo=x&logoColor=White&labelColor=0D1117" target="_blank"></a>
-  <a href="https://instagram.com/hamedp71" target="_blank"><img src="https://img.shields.io/badge/-Instagram-magenta?style=for-the-badge&logo=instagram&logoColor=magenta&labelColor=0D1117" target="_blank"></a>
-   <a href = "mailto:hamedfinal18@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-yellow?style=for-the-badge&logo=gmail&logoColor=yellow&labelColor=0D1117" target="_blank"></a>
-  <a href="https://t.me/hamedp71" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=cyan&labelColor=0D1117" target="_blank"></a> 
-  <a href="https://github.com/hamedp-71" target="_blank"><img src="https://img.shields.io/badge/-Github-silver?style=for-the-badge&logo=github&logoColor=silver&labelColor=0D1117" target="_blank"></a> 
+<a href = "https://x.com/aristaproject"> <img src="https://img.shields.io/badge/-X-white?style=for-the-badge&logo=x&logoColor=White&labelColor=0D1117" target="_blank"></a>
+  <a href="https://www.youtube.com/@aristaproject-m3o" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+   <a href = "mailto:aristaproject1@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-yellow?style=for-the-badge&logo=gmail&logoColor=yellow&labelColor=0D1117" target="_blank"></a>
+  <a href="https://t.me/aristaproject" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=cyan&labelColor=0D1117" target="_blank"></a> 
+  <a href="https://github.com/arista-project/" target="_blank"><img src="https://img.shields.io/badge/-Github-silver?style=for-the-badge&logo=github&logoColor=silver&labelColor=0D1117" target="_blank"></a> 
   </p>
   
 <br>
@@ -321,7 +314,7 @@ TLCXUufe6FmD518PG9F6oonH8G3by4bavz
 </table>
 </div>
 
-## متغیرهای محیطی (داشبورد کلادفلر)
+## متغیرهای محیطی (داشبورد پنل)
 <div dir="rtl">
 <table>
   <thead>
