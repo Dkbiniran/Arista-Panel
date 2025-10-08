@@ -57,7 +57,7 @@
 <br>
 <br>
 <p align="center">
-  <img src="docs/assets/images/panel-overview.png">
+  <img src="docs/assets/images/panel-overview.jpg">
 </p>
 <br>
 
