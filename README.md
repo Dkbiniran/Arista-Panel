@@ -246,10 +246,6 @@ TLCXUufe6FmD518PG9F6oonH8G3by4bavz
   </thead>
   <tbody  align="center">
     <tr>
-      <td><b>UUID</b></td>
-      <td>UUID برای پروتکل VLESS</td>
-    </tr>
-    <tr>
       <td><b>Clean IP</b></td>
       <td>آیپی تمیز</td>
     </tr>
