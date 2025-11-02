@@ -88,6 +88,14 @@
 ```text
 TLCXUufe6FmD518PG9F6oonH8G3by4bavz
 ```
+### USDT - شبکه TON
+```text
+UQCEu3Uql9ty8ipsd2wRlo-P39uN8fC0cLabxUVUVgmHp4qD
+```
+### USDT - شبکه Polygon
+```text
+0xB22946DEB48592AB5818D327DD99313A9e4F273A
+```
 هر کمک ، هر چند کوچک ، آینده‌ای روشن‌تر و دنیایی پر از امید برای یک کودک می‌سازد. 🌟
 ##
 
