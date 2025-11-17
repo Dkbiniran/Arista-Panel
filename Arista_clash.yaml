@@ -191,7 +191,7 @@ proxies:
     sni: "gavazn.55994421.xyz"
     skip-cert-verify: true
 
-  - name: Dr-Anv 🇨🇦
+  - name: "hamedp71 🇨🇦"
     type: tuic
     server: 40.233.77.57
     port: 52434
@@ -206,7 +206,7 @@ proxies:
     udp_relay_mode: native
 
 
-  - name: 🇳🇱+🇬🇧 hamedp71 ❤️
+  - name: "hamedp71❤️🇳🇱+🇬🇧"
     type: hysteria2
     server: 193.142.59.41
     port: 23899
@@ -1769,8 +1769,8 @@ proxy-groups:
       - "⛓️عمو زنجیر باف⛓️"
       - "🇩🇪 ShadowTLS-Proxy"
       - "hy2-hamedp71🏴‍☠️"
-      - "Dr-Anv 🇨🇦"
-      - "🇳🇱+🇬🇧 hamedp71 ❤️"
+      - "hamedp71 🇨🇦"
+      - "hamedp71❤️🇳🇱+🇬🇧"
       - "🇹🇷 😎hamedp71 1"
       - "🇳🇱 😎hamedp71 6"
       - "🇺🇸 😎hamedp71 2"
@@ -1808,8 +1808,8 @@ proxy-groups:
     interval: 30
     tolerance: 120
     proxies:
-      - "Dr-Anv 🇨🇦"
-      - "🇳🇱+🇬🇧 hamedp71 ❤️"
+      - "hamedp71 🇨🇦"
+      - "hamedp71❤️🇳🇱+🇬🇧"
       - "🇩🇪 ShadowTLS-Proxy"
       - "🇹🇷 😎hamedp71 1"
       - "🇳🇱 😎hamedp71 6"
