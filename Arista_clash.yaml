@@ -10,7 +10,7 @@ unified-delay: false
 geo-auto-update: true
 geo-update-interval: 168
 external-controller: '127.0.0.1:9090'
-secret: 'Hpp@19921992'
+secret: 'Arista@159357'
 external-ui: ui
 # external-ui-url: 'https://github.com/haishanh/yacd/archive/gh-pages.zip'
 external-ui-url: 'https://github.com/MetaCubeX/metacubexd/archive/refs/heads/gh-pages.zip'
@@ -94,7 +94,7 @@ proxies:
     sni: "suiany.makingirangreatagain.com"
     servername: "suiany.makingirangreatagain.com"
 
-  - name: "hy2-hamedp71🏴‍☠️"
+  - name: "hy2-Arista🏴‍☠️"
     type: hysteria2
     server: kevin.vpny.online
     port: 22002
@@ -103,7 +103,7 @@ proxies:
     obfs-password: "KevinZakarian"
     skip-cert-verify: true
 
-  - name: "🇫🇮🔥hamedp71🔥1"
+  - name: "🇫🇮🔥Arista🔥1"
     type: hysteria2
     server: channel1.saghetalaie.homes
     port: 46914
@@ -113,7 +113,7 @@ proxies:
     sni: "www.google.com"
     skip-cert-verify: true
 
-  - name: "🇦🇺🔥hamedp71🔥2"
+  - name: "🇦🇺🔥Arista🔥2"
     type: hysteria2
     server: channel2.saghetalaie.homes
     port: 46914
@@ -123,7 +123,7 @@ proxies:
     sni: "www.google.com"
     skip-cert-verify: true
 
-  - name: "🇳🇱🔥hamedp71🔥3"
+  - name: "🇳🇱🔥Arista🔥3"
     type: hysteria2
     server: channel3.saghetalaie.homes
     port: 46914
@@ -133,7 +133,7 @@ proxies:
     sni: "www.google.com"
     skip-cert-verify: true
 
-  - name: "🇹🇷 😎hamedp71 1"
+  - name: "🇹🇷 😎Arista 1"
     type: hysteria2
     server: kevin.vpny.online
     port: 22002
@@ -142,7 +142,7 @@ proxies:
     obfs-password: "KevinZakarian"
     skip-cert-verify: true
 
-  - name: "🇺🇸 😎hamedp71 2"
+  - name: "🇺🇸 😎Arista 2"
     type: hysteria2
     server: 89.116.64.211
     port: 11001
@@ -151,7 +151,7 @@ proxies:
     obfs-password: "KevinZakarian"
     skip-cert-verify: true
 
-  - name: "🇫🇮 😎hamedp71 3"
+  - name: "🇫🇮 😎Arista 3"
     type: hysteria2
     server: channel1.saghetalaie.homes
     port: 46914
@@ -161,7 +161,7 @@ proxies:
     sni: "www.google.com"
     skip-cert-verify: true
 
-  - name: "🇫🇷 😎hamedp71 4"
+  - name: "🇫🇷 😎Arista 4"
     type: hysteria2
     server: channel2.saghetalaie.homes
     port: 46914
@@ -171,7 +171,7 @@ proxies:
     sni: "www.google.com"
     skip-cert-verify: true
 
-  - name: "🇳🇱 😎hamedp71 5"
+  - name: "🇳🇱 😎Arista 5"
     type: hysteria2
     server: channel3.saghetalaie.homes
     port: 46914
@@ -181,7 +181,7 @@ proxies:
     sni: "www.bing.com"
     skip-cert-verify: true
 
-  - name: "🇳🇱 😎hamedp71 6"
+  - name: "🇳🇱 😎Arista 6"
     type: hysteria2
     server: 206.71.158.23
     port: 45000
@@ -191,7 +191,7 @@ proxies:
     sni: "gavazn.55994421.xyz"
     skip-cert-verify: true
 
-  - name: "hamedp71 🇨🇦"
+  - name: "Arista 🇨🇦"
     type: tuic
     server: 40.233.77.57
     port: 52434
@@ -206,7 +206,7 @@ proxies:
     udp_relay_mode: native
 
 
-  - name: "hamedp71❤️🇳🇱+🇬🇧"
+  - name: "Arista❤️🇳🇱+🇬🇧"
     type: hysteria2
     server: 193.142.59.41
     port: 23899
@@ -218,7 +218,7 @@ proxies:
 
 
   # کانفیگ سوم - ایتالیا
-  - name: "SS-hamedp71🇩🇪"
+  - name: "SS-Arista🇩🇪"
     type: ss
     server: 176.126.83.158
     port: 990
@@ -226,7 +226,7 @@ proxies:
     password: "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
 
   # کانفیگ پنجم - مراکش
-  - name: "SS-hamedp71🇲🇦"
+  - name: "SS-Arista🇲🇦"
     type: ss
     server: 188.214.157.58
     port: 990
@@ -234,14 +234,14 @@ proxies:
     password: "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="   
 
   # کانفیگ اول - آرژانتین
-  - name: "SS-hamedp71🇦🇷"
+  - name: "SS-Arista🇦🇷"
     type: ss
     server: 190.103.176.32
     port: 990
     cipher: chacha20-ietf-poly1305
     password: "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
     
-  - name: "🇳🇱 hamedp71 - 1"
+  - name: "🇳🇱 Arista - 1"
     type: hysteria2
     server: 206.71.158.37
     port: 36300
@@ -250,7 +250,7 @@ proxies:
     obfs: salamander
     obfs-password: "Yet-Another-Public-Config-1"
     skip-cert-verify: false
-  - name: "🇳🇱 hamedp71 - 2"
+  - name: "🇳🇱 Arista - 2"
     type: hysteria2
     server: 206.71.158.37
     port: 35000
@@ -259,7 +259,7 @@ proxies:
     obfs: salamander
     obfs-password: "Yet-Another-Public-Config-1"
     skip-cert-verify: true
-  - name: "🇳🇱 hamedp71 - 3"
+  - name: "🇳🇱 Arista - 3"
     type: hysteria2
     server: 206.71.158.37
     port: 36600
@@ -268,7 +268,7 @@ proxies:
     obfs: salamander
     obfs-password: "Yet-Another-Public-Config-1"
     skip-cert-verify: true
-  - name: "🇳🇱 hamedp71 - 4"
+  - name: "🇳🇱 Arista - 4"
     type: hysteria2
     server: 206.71.158.37
     port: 35200
@@ -277,7 +277,7 @@ proxies:
     obfs: salamander
     obfs-password: "Yet-Another-Public-Config-1"
     skip-cert-verify: false
-  - name: "🇳🇱 hamedp71 - 6"
+  - name: "🇳🇱 Arista - 6"
     type: hysteria2
     server: 81.168.83.89
     port: 2083
@@ -286,7 +286,7 @@ proxies:
     obfs: salamander
     obfs-password: "khameniiko@smad@ret"
     skip-cert-verify: true
-  - name: "🇬🇧 hamedp71 13"
+  - name: "🇬🇧 Arista 13"
     type: hysteria2
     server: 81.168.83.89
     port: 2083
@@ -297,77 +297,77 @@ proxies:
     obfs-password: "khameniiko@smad@ret"
 
 #لهستان
-  - name: "hamedp71-🇵🇱-47"
+  - name: "Arista-🇵🇱-47"
     type: ss
     server: 217.30.10.70
     port: 9057
     cipher: aes-256-cfb
     password: "wjTugX3ZtHMB9c3Z"
     udp: true
-  - name: "hamedp71-🇵🇱-49"
+  - name: "Arista-🇵🇱-49"
     type: ss
     server: 217.30.10.70
     port: 9033
     cipher: aes-256-cfb
     password: "UTJA57ypk2XKQpnm"
     udp: true
-  - name: "hamedp71-🇵🇱-51"
+  - name: "Arista-🇵🇱-51"
     type: ss
     server: 217.30.10.70
     port: 9003
     cipher: aes-256-cfb
     password: "JdmRK9gMEqFgs8nP"
     udp: true
-  - name: "hamedp71-🇵🇱-52"
+  - name: "Arista-🇵🇱-52"
     type: ss
     server: 217.30.10.18
     port: 9042
     cipher: aes-256-cfb
     password: "S7KwUu7yBy58S3Ga"
     udp: true
-  - name: "hamedp71-🇵🇱-53"
+  - name: "Arista-🇵🇱-53"
     type: ss
     server: 217.30.10.18
     port: 9027
     cipher: aes-256-cfb
     password: "EXN3S3eQpjE7EJu8"
     udp: true
-  - name: "hamedp71-🇵🇱-55"
+  - name: "Arista-🇵🇱-55"
     type: ss
     server: 217.30.10.18
     port: 9084
     cipher: aes-256-cfb
     password: "c3NtHJ5ujV2tGDfj"
     udp: true
-  - name: "hamedp71-🇵🇱-60"
+  - name: "Arista-🇵🇱-60"
     type: ss
     server: 217.30.10.18
     port: 9018
     cipher: aes-256-cfb
     password: "fG2artUmHfNT2cX7"
     udp: true
-  - name: "hamedp71-🇵🇱-61"
+  - name: "Arista-🇵🇱-61"
     type: ss
     server: 217.30.10.70
     port: 9070
     cipher: aes-256-cfb
     password: "bf7v334KKDV3YDhH"
     udp: true
-  - name: "hamedp71-🇵🇱-62"
+  - name: "Arista-🇵🇱-62"
     type: ss
     server: 217.30.10.70
     port: 9014
     cipher: aes-256-cfb
     password: "KnJGad3FqTvjqbaX"
     udp: true
-  - name: "hamedp71-🇵🇱-66"
+  - name: "Arista-🇵🇱-66"
     type: ss
     server: 217.30.10.18
     port: 9046
     cipher: aes-256-cfb
     password: "NvS8N4Vf8qAGPSCL"
     udp: true
-  - name: "hamedp71-🇵🇱-67"
+  - name: "Arista-🇵🇱-67"
     type: ss
     server: 217.30.10.70
     port: 9046
@@ -391,42 +391,42 @@ proxies:
       headers:
         Host: azadnet-4n9.pages.dev
 # --- پراکسی‌های زنجیره‌ای با استفاده از dialer-proxy ---
-  - name: "🇺🇸-hamedp71- § 0"
+  - name: "🇺🇸-Arista- § 0"
     type: ss
     server: 37.19.198.244
     port: 443
     cipher: aes-128-gcm
     password: "shadowsocks"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇵🇾-hamedp71- § 1"
+  - name: "🇵🇾-Arista- § 1"
     type: ss
     server: 195.181.160.6
     port: 990
     cipher: chacha20-ietf-poly1305
     password: "f8f7aCzcPKbsF8p3"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇬🇧-hamedp71- § 2"
+  - name: "🇬🇧-Arista- § 2"
     type: ss
     server: 141.98.101.181
     port: 443
     cipher: aes-128-gcm
     password: "shadowsocks"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇨🇦2-hamedp71- § 4"
+  - name: "🇨🇦2-Arista- § 4"
     type: ss
     server: 142.4.216.225
     port: 80
     cipher: chacha20-ietf-poly1305
     password: "JIhN6rBKkaEboLNXVSv5rq"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇺🇸2-hamedp71- § 5"
+  - name: "🇺🇸2-Arista- § 5"
     type: ss
     server: 156.146.38.170
     port: 443
     cipher: aes-128-gcm
     password: "shadowsocks"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇸🇬-hamedp71- § 6"
+  - name: "🇸🇬-Arista- § 6"
     type: ss
     server: 203.23.128.33
     port: 990
@@ -440,63 +440,63 @@ proxies:
     cipher: chacha20-ietf-poly1305
     password: "4a2rfixophdjffa8KVA4Aa"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇪🇸-hamedp71- § 9"
+  - name: "🇪🇸-Arista- § 9"
     type: ss
     server: 45.154.206.192
     port: 990
     cipher: chacha20-ietf-poly1305
     password: "f8f7aCzcPKbsF8p3"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇮🇳-hamedp71- § 10"
+  - name: "🇮🇳-Arista- § 10"
     type: ss
     server: 82.180.146.173
     port: 30607
     cipher: aes-128-gcm
     password: "162629d7-cb17-43b1-82c9-f9c7ae6cba70"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇩🇪-hamedp71- § 11"
+  - name: "🇩🇪-Arista- § 11"
     type: ss
     server: 51.195.119.47
     port: 1080
     cipher: chacha20-ietf-poly1305
     password: "qXvO7zYU7KeaB0Md7DQLow"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇯🇵-hamedp71- § 12"
+  - name: "🇯🇵-Arista- § 12"
     type: ss
     server: 149.22.87.204
     port: 443
     cipher: aes-128-gcm
     password: "shadowsocks"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇳🇱-hamedp71- § 13"
+  - name: "🇳🇱-Arista- § 13"
     type: ss
     server: 45.158.171.66
     port: 8080
     cipher: chacha20-ietf-poly1305
     password: "oZIoA69Q8yhcQV8ka3Pa3A"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇨🇦 -hamedp71- § 14"
+  - name: "🇨🇦 -Arista- § 14"
     type: ss
     server: 64.74.163.82
     port: 990
     cipher: chacha20-ietf-poly1305
     password: "f8f7aCzcPKbsF8p3"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇹🇷-hamedp71- § 15"
+  - name: "🇹🇷-Arista- § 15"
     type: ss
     server: 185.123.101.241
     port: 990
     cipher: chacha20-ietf-poly1305
     password: "f8f7aCzcPKbsF8p3"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇺🇸3-hamedp71- § 16"
+  - name: "🇺🇸3-Arista- § 16"
     type: ss
     server: 173.244.56.6
     port: 443
     cipher: aes-128-gcm
     password: "shadowsocks"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇨🇦-hamedp71- § 17"
+  - name: "🇨🇦-Arista- § 17"
     type: ss
     server: 142.4.216.225
     port: 80
@@ -505,7 +505,7 @@ proxies:
     dialer-proxy: "VLESS-Entry"
     
 #warp
-  - name: "🇦🇹 hamedp71"
+  - name: "🇦🇹 Arista"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -532,7 +532,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇦🇺 hamedp71-1"
+  - name: "🇦🇺 Arista-1"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -559,7 +559,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇦🇺 hamedp71-2"
+  - name: "🇦🇺 Arista-2"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -585,7 +585,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇦🇺 hamedp71-3"
+  - name: "🇦🇺 Arista-3"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -611,7 +611,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇦🇺 hamedp71-4"
+  - name: "🇦🇺 Arista-4"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -637,7 +637,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇦🇺 hamedp71-5"
+  - name: "🇦🇺 Arista-5"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -663,7 +663,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇦🇺 hamedp71"
+  - name: "🇦🇺 Arista"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -689,7 +689,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇦🇺 hamedp71-6"
+  - name: "🇦🇺 Arista-6"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -715,7 +715,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇧🇦 hamedp71"
+  - name: "🇧🇦 Arista"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -741,7 +741,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇨🇦 hamedp71-1"
+  - name: "🇨🇦 Arista-1"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -767,7 +767,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇨🇦 hamedp71-2"
+  - name: "🇨🇦 Arista-2"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -793,7 +793,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇨🇦 hamedp71-3"
+  - name: "🇨🇦 Arista-3"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -819,7 +819,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇨🇦 hamedp71-4"
+  - name: "🇨🇦 Arista-4"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -845,7 +845,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇨🇭 hamedp71-1"
+  - name: "🇨🇭 Arista-1"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -871,7 +871,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇨🇾 hamedp71"
+  - name: "🇨🇾 Arista"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -897,7 +897,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇨🇿 hamedp71"
+  - name: "🇨🇿 Arista"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -923,7 +923,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇫🇷 hamedp71-1"
+  - name: "🇫🇷 Arista-1"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -949,7 +949,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇬🇧 hamedp71"
+  - name: "🇬🇧 Arista"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -975,7 +975,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇭🇰 hamedp71"
+  - name: "🇭🇰 Arista"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1001,7 +1001,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇮🇸 hamedp71"
+  - name: "🇮🇸 Arista"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: ""
@@ -1027,7 +1027,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇮🇸 hamedp71-1"
+  - name: "🇮🇸 Arista-1"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: ""
@@ -1053,7 +1053,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇮🇸 hamedp71-2"
+  - name: "🇮🇸 Arista-2"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1079,7 +1079,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇮🇪 hamedp71"
+  - name: "🇮🇪 Arista"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1105,7 +1105,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇰🇪 hamedp71"
+  - name: "🇰🇪 Arista"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1131,7 +1131,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇱🇹 hamedp71"
+  - name: "🇱🇹 Arista"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: ""
@@ -1157,7 +1157,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇱🇺 hamedp71"
+  - name: "🇱🇺 Arista"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1183,7 +1183,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇲🇰 hamedp71"
+  - name: "🇲🇰 Arista"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1209,7 +1209,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇳🇱 hamedp71-1"
+  - name: "🇳🇱 Arista-1"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1235,7 +1235,7 @@ proxies:
       h3: 3
       h4: 4
       
-  - name: "🇳🇱 hamedp71-2"
+  - name: "🇳🇱 Arista-2"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1261,7 +1261,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇳🇴 hamedp71"
+  - name: "🇳🇴 Arista"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1287,7 +1287,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇳🇿 hamedp71"
+  - name: "🇳🇿 Arista"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1313,7 +1313,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇵🇦 hamedp71"
+  - name: "🇵🇦 Arista"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1339,7 +1339,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇷🇺 hamedp71-2"
+  - name: "🇷🇺 Arista-2"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1365,7 +1365,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇸🇪 hamedp71"
+  - name: "🇸🇪 Arista"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1391,7 +1391,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇸🇬 hamedp71"
+  - name: "🇸🇬 Arista"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1417,7 +1417,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇸🇬 hamedp71 1"
+  - name: "🇸🇬 Arista 1"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1443,7 +1443,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇺🇸 hamedp71 2"
+  - name: "🇺🇸 Arista 2"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1469,7 +1469,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇺🇸 hamedp71 3"
+  - name: "🇺🇸 Arista 3"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1495,7 +1495,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇺🇸 hamedp71 4"
+  - name: "🇺🇸 Arista 4"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1521,7 +1521,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇺🇸 hamedp71 5"
+  - name: "🇺🇸 Arista 5"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1547,7 +1547,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇺🇸 hamedp71 6"
+  - name: "🇺🇸 Arista 6"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1573,7 +1573,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇺🇸 hamedp71 7"
+  - name: "🇺🇸 Arista 7"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1599,7 +1599,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇺🇸 hamedp71 8"
+  - name: "🇺🇸 Arista 8"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1625,7 +1625,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇺🇸 hamedp71 9"
+  - name: "🇺🇸 Arista 9"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1651,7 +1651,7 @@ proxies:
       h4: 3
       h3: 4   
 
-  - name: "🇺🇸 hamedp71"
+  - name: "🇺🇸 Arista"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1677,7 +1677,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇻🇳 hamedp71"
+  - name: "🇻🇳 Arista"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1703,7 +1703,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇿🇦 hamedp71 1"
+  - name: "🇿🇦 Arista 1"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1729,7 +1729,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇿🇦 hamedp71"
+  - name: "🇿🇦 Arista"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1768,38 +1768,38 @@ proxy-groups:
       - "🤍 وارپ"
       - "⛓️عمو زنجیر باف⛓️"
       - "🇩🇪 ShadowTLS-Proxy"
-      - "hy2-hamedp71🏴‍☠️"
-      - "hamedp71 🇨🇦"
-      - "hamedp71❤️🇳🇱+🇬🇧"
-      - "🇹🇷 😎hamedp71 1"
-      - "🇳🇱 😎hamedp71 6"
-      - "🇺🇸 😎hamedp71 2"
-      - "🇫🇮🔥hamedp71🔥1"
-      - "🇳🇱🔥hamedp71🔥3"
-      - "🇫🇷 😎hamedp71 4"
-      - "🇫🇮 😎hamedp71 3"
-      - "🇳🇱 😎hamedp71 5"
-      - "🇦🇺🔥hamedp71🔥2"
-      - "🇳🇱 hamedp71 - 1"
-      - "🇳🇱 hamedp71 - 2"
-      - "🇳🇱 hamedp71 - 3"
-      - "🇳🇱 hamedp71 - 4"
-      - "🇳🇱 hamedp71 - 6"
-      - "🇬🇧 hamedp71 13"
-      - "SS-hamedp71🇲🇦"
-      - "SS-hamedp71🇩🇪"
-      - "SS-hamedp71🇦🇷"
-      - "hamedp71-🇵🇱-47"
-      - "hamedp71-🇵🇱-49"
-      - "hamedp71-🇵🇱-51"
-      - "hamedp71-🇵🇱-52"
-      - "hamedp71-🇵🇱-53"
-      - "hamedp71-🇵🇱-55"
-      - "hamedp71-🇵🇱-60"
-      - "hamedp71-🇵🇱-61"
-      - "hamedp71-🇵🇱-62"
-      - "hamedp71-🇵🇱-66"
-      - "hamedp71-🇵🇱-67"
+      - "hy2-Arista🏴‍☠️"
+      - "Arista 🇨🇦"
+      - "Arista❤️🇳🇱+🇬🇧"
+      - "🇹🇷 😎Arista 1"
+      - "🇳🇱 😎Arista 6"
+      - "🇺🇸 😎Arista 2"
+      - "🇫🇮🔥Arista🔥1"
+      - "🇳🇱🔥Arista🔥3"
+      - "🇫🇷 😎Arista 4"
+      - "🇫🇮 😎Arista 3"
+      - "🇳🇱 😎Arista 5"
+      - "🇦🇺🔥Arista🔥2"
+      - "🇳🇱 Arista - 1"
+      - "🇳🇱 Arista - 2"
+      - "🇳🇱 Arista - 3"
+      - "🇳🇱 Arista - 4"
+      - "🇳🇱 Arista - 6"
+      - "🇬🇧 Arista 13"
+      - "SS-Arista🇲🇦"
+      - "SS-Arista🇩🇪"
+      - "SS-Arista🇦🇷"
+      - "Arista-🇵🇱-47"
+      - "Arista-🇵🇱-49"
+      - "Arista-🇵🇱-51"
+      - "Arista-🇵🇱-52"
+      - "Arista-🇵🇱-53"
+      - "Arista-🇵🇱-55"
+      - "Arista-🇵🇱-60"
+      - "Arista-🇵🇱-61"
+      - "Arista-🇵🇱-62"
+      - "Arista-🇵🇱-66"
+      - "Arista-🇵🇱-67"
       - "🇩🇪 anytls-443"
 
   - name: "اتصال❤️خودکار"
@@ -1808,54 +1808,54 @@ proxy-groups:
     interval: 30
     tolerance: 120
     proxies:
-      - "hamedp71 🇨🇦"
-      - "hamedp71❤️🇳🇱+🇬🇧"
+      - "Arista 🇨🇦"
+      - "Arista❤️🇳🇱+🇬🇧"
       - "🇩🇪 ShadowTLS-Proxy"
-      - "🇹🇷 😎hamedp71 1"
-      - "🇳🇱 😎hamedp71 6"
-      - "🇺🇸 😎hamedp71 2"
-      - "🇫🇮🔥hamedp71🔥1"
-      - "🇳🇱🔥hamedp71🔥3"
-      - "🇫🇷 😎hamedp71 4"
-      - "🇫🇮 😎hamedp71 3"
-      - "🇳🇱 😎hamedp71 5"
-      - "🇦🇺🔥hamedp71🔥2"
-      - "🇳🇱 hamedp71 - 1"
-      - "🇳🇱 hamedp71 - 2"
-      - "🇳🇱 hamedp71 - 3"
-      - "🇳🇱 hamedp71 - 4"
-      - "🇳🇱 hamedp71 - 6"
-      - "🇬🇧 hamedp71 13"
-      - "SS-hamedp71🇲🇦"
-      - "SS-hamedp71🇩🇪"
-      - "SS-hamedp71🇦🇷"
-      - "hamedp71-🇵🇱-47"
-      - "hamedp71-🇵🇱-49"
-      - "hamedp71-🇵🇱-51"
-      - "hamedp71-🇵🇱-52"
-      - "hamedp71-🇵🇱-53"
-      - "hamedp71-🇵🇱-55"
-      - "hamedp71-🇵🇱-60"
-      - "hamedp71-🇵🇱-61"
-      - "hamedp71-🇵🇱-62"
-      - "hamedp71-🇵🇱-66"
-      - "hamedp71-🇵🇱-67"
-      - "🇺🇸-hamedp71- § 0"
-      - "🇵🇾-hamedp71- § 1"
-      - "🇬🇧-hamedp71- § 2"
-      - "🇨🇦2-hamedp71- § 4"
-      - "🇺🇸2-hamedp71- § 5"
-      - "🇸🇬-hamedp71- § 6"
-      - "🇳🇱-hamedp71- § 7"
-      - "🇪🇸-hamedp71- § 9"
-      - "🇮🇳-hamedp71- § 10"
-      - "🇩🇪-hamedp71- § 11"
-      - "🇯🇵-hamedp71- § 12"
-      - "🇳🇱-hamedp71- § 13"
-      - "🇨🇦 -hamedp71- § 14"
-      - "🇹🇷-hamedp71- § 15"
-      - "🇺🇸3-hamedp71- § 16"
-      - "🇨🇦-hamedp71- § 17"
+      - "🇹🇷 😎Arista 1"
+      - "🇳🇱 😎Arista 6"
+      - "🇺🇸 😎Arista 2"
+      - "🇫🇮🔥Arista🔥1"
+      - "🇳🇱🔥Arista🔥3"
+      - "🇫🇷 😎Arista 4"
+      - "🇫🇮 😎Arista 3"
+      - "🇳🇱 😎Arista 5"
+      - "🇦🇺🔥Arista🔥2"
+      - "🇳🇱 Arista - 1"
+      - "🇳🇱 Arista - 2"
+      - "🇳🇱 Arista - 3"
+      - "🇳🇱 Arista - 4"
+      - "🇳🇱 Arista - 6"
+      - "🇬🇧 Arista 13"
+      - "SS-Arista🇲🇦"
+      - "SS-Arista🇩🇪"
+      - "SS-Arista🇦🇷"
+      - "Arista-🇵🇱-47"
+      - "Arista-🇵🇱-49"
+      - "Arista-🇵🇱-51"
+      - "Arista-🇵🇱-52"
+      - "Arista-🇵🇱-53"
+      - "Arista-🇵🇱-55"
+      - "Arista-🇵🇱-60"
+      - "Arista-🇵🇱-61"
+      - "Arista-🇵🇱-62"
+      - "Arista-🇵🇱-66"
+      - "Arista-🇵🇱-67"
+      - "🇺🇸-Arista- § 0"
+      - "🇵🇾-Arista- § 1"
+      - "🇬🇧-Arista- § 2"
+      - "🇨🇦2-Arista- § 4"
+      - "🇺🇸2-Arista- § 5"
+      - "🇸🇬-Arista- § 6"
+      - "🇳🇱-Arista- § 7"
+      - "🇪🇸-Arista- § 9"
+      - "🇮🇳-Arista- § 10"
+      - "🇩🇪-Arista- § 11"
+      - "🇯🇵-Arista- § 12"
+      - "🇳🇱-Arista- § 13"
+      - "🇨🇦 -Arista- § 14"
+      - "🇹🇷-Arista- § 15"
+      - "🇺🇸3-Arista- § 16"
+      - "🇨🇦-Arista- § 17"
 
   - name: "🤍 وارپ"
     type: url-test
@@ -1863,74 +1863,74 @@ proxy-groups:
     interval: 60
     tolerance: 90
     proxies:
-      - "🇦🇹 hamedp71"
-      - "🇦🇺 hamedp71-1"
-      - "🇦🇺 hamedp71-2"
-      - "🇦🇺 hamedp71-3"
-      - "🇦🇺 hamedp71-4"
-      - "🇦🇺 hamedp71-5"
-      - "🇦🇺 hamedp71"
-      - "🇦🇺 hamedp71-6"
-      - "🇧🇦 hamedp71"
-      - "🇨🇦 hamedp71-1"
-      - "🇨🇦 hamedp71-2"
-      - "🇨🇦 hamedp71-3"
-      - "🇨🇦 hamedp71-4"
-      - "🇨🇭 hamedp71-1"
-      - "🇨🇾 hamedp71"
-      - "🇨🇿 hamedp71"
-      - "🇫🇷 hamedp71-1"
-      - "🇬🇧 hamedp71"
-      - "🇭🇰 hamedp71"
-      - "🇮🇸 hamedp71"
-      - "🇮🇸 hamedp71-1"
-      - "🇮🇸 hamedp71-2"
-      - "🇮🇪 hamedp71"
-      - "🇰🇪 hamedp71"
-      - "🇱🇹 hamedp71"
-      - "🇱🇺 hamedp71"
-      - "🇲🇰 hamedp71"
-      - "🇳🇱 hamedp71-1"
-      - "🇳🇱 hamedp71-2"
-      - "🇳🇴 hamedp71"
-      - "🇳🇿 hamedp71"
-      - "🇵🇦 hamedp71"
-      - "🇷🇺 hamedp71-2"
-      - "🇸🇪 hamedp71"
-      - "🇸🇬 hamedp71"
-      - "🇸🇬 hamedp71 1"
-      - "🇺🇸 hamedp71 2"
-      - "🇺🇸 hamedp71 3"
-      - "🇺🇸 hamedp71 4"
-      - "🇺🇸 hamedp71 5"
-      - "🇺🇸 hamedp71 6"
-      - "🇺🇸 hamedp71 7"
-      - "🇺🇸 hamedp71 8"
-      - "🇺🇸 hamedp71 9"
-      - "🇺🇸 hamedp71"
-      - "🇻🇳 hamedp71"
-      - "🇿🇦 hamedp71 1"
-      - "🇿🇦 hamedp71"
+      - "🇦🇹 Arista"
+      - "🇦🇺 Arista-1"
+      - "🇦🇺 Arista-2"
+      - "🇦🇺 Arista-3"
+      - "🇦🇺 Arista-4"
+      - "🇦🇺 Arista-5"
+      - "🇦🇺 Arista"
+      - "🇦🇺 Arista-6"
+      - "🇧🇦 Arista"
+      - "🇨🇦 Arista-1"
+      - "🇨🇦 Arista-2"
+      - "🇨🇦 Arista-3"
+      - "🇨🇦 Arista-4"
+      - "🇨🇭 Arista-1"
+      - "🇨🇾 Arista"
+      - "🇨🇿 Arista"
+      - "🇫🇷 Arista-1"
+      - "🇬🇧 Arista"
+      - "🇭🇰 Arista"
+      - "🇮🇸 Arista"
+      - "🇮🇸 Arista-1"
+      - "🇮🇸 Arista-2"
+      - "🇮🇪 Arista"
+      - "🇰🇪 Arista"
+      - "🇱🇹 Arista"
+      - "🇱🇺 Arista"
+      - "🇲🇰 Arista"
+      - "🇳🇱 Arista-1"
+      - "🇳🇱 Arista-2"
+      - "🇳🇴 Arista"
+      - "🇳🇿 Arista"
+      - "🇵🇦 Arista"
+      - "🇷🇺 Arista-2"
+      - "🇸🇪 Arista"
+      - "🇸🇬 Arista"
+      - "🇸🇬 Arista 1"
+      - "🇺🇸 Arista 2"
+      - "🇺🇸 Arista 3"
+      - "🇺🇸 Arista 4"
+      - "🇺🇸 Arista 5"
+      - "🇺🇸 Arista 6"
+      - "🇺🇸 Arista 7"
+      - "🇺🇸 Arista 8"
+      - "🇺🇸 Arista 9"
+      - "🇺🇸 Arista"
+      - "🇻🇳 Arista"
+      - "🇿🇦 Arista 1"
+      - "🇿🇦 Arista"
 
   - name: "⛓️عمو زنجیر باف⛓️"
     type: select
     proxies:
-      - "🇺🇸-hamedp71- § 0"
-      - "🇵🇾-hamedp71- § 1"
-      - "🇬🇧-hamedp71- § 2"
-      - "🇨🇦2-hamedp71- § 4"
-      - "🇺🇸2-hamedp71- § 5"
-      - "🇸🇬-hamedp71- § 6"
-      - "🇳🇱-hamedp71- § 7"
-      - "🇪🇸-hamedp71- § 9"
-      - "🇮🇳-hamedp71- § 10"
-      - "🇩🇪-hamedp71- § 11"
-      - "🇯🇵-hamedp71- § 12"
-      - "🇳🇱-hamedp71- § 13"
-      - "🇨🇦 -hamedp71- § 14"
-      - "🇹🇷-hamedp71- § 15"
-      - "🇺🇸3-hamedp71- § 16"
-      - "🇨🇦-hamedp71- § 17"
+      - "🇺🇸-Arista- § 0"
+      - "🇵🇾-Arista- § 1"
+      - "🇬🇧-Arista- § 2"
+      - "🇨🇦2-Arista- § 4"
+      - "🇺🇸2-Arista- § 5"
+      - "🇸🇬-Arista- § 6"
+      - "🇳🇱-Arista- § 7"
+      - "🇪🇸-Arista- § 9"
+      - "🇮🇳-Arista- § 10"
+      - "🇩🇪-Arista- § 11"
+      - "🇯🇵-Arista- § 12"
+      - "🇳🇱-Arista- § 13"
+      - "🇨🇦 -Arista- § 14"
+      - "🇹🇷-Arista- § 15"
+      - "🇺🇸3-Arista- § 16"
+      - "🇨🇦-Arista- § 17"
       
 rule-providers:
   malware:
@@ -1943,7 +1943,7 @@ rule-providers:
   malware-cidr:
     type: http
     format: text
-    behavior: ipcidr  # <--- تغییر در اینجا
+    behavior: ipcidr
     url: "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/malware-ip.txt"
     path: "./ruleset/malware-cidr.txt"
     interval: 86400
@@ -1957,7 +1957,7 @@ rule-providers:
   phishing-cidr:
     type: http
     format: text
-    behavior: ipcidr  # <--- تغییر در اینجا
+    behavior: ipcidr
     url: "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/phishing-ip.txt"
     path: "./ruleset/phishing-cidr.txt"
     interval: 86400
@@ -1985,7 +1985,7 @@ rule-providers:
   ir-cidr:
     type: http
     format: text
-    behavior: ipcidr  # <--- تغییر در اینجا
+    behavior: ipcidr
     url: "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ircidr.txt"
     path: "./ruleset/ir-cidr.txt"
     interval: 86400
